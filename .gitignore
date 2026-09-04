@@ -1,0 +1,64 @@
+# Build directories
+bin/
+obj/
+debug/
+release/
+
+# Visual Studio
+.vs/
+*.sln.user
+*.vcxproj.user
+*.ncb
+*.aps
+*.bsc
+*.clw
+*.depend
+*.dsp
+*.dsw
+*.exp
+*.idb
+*.ilk
+*.lib
+*.map
+*.ncb
+*.obj
+*.pch
+*.pdb
+*.plg
+*.res
+*.sbr
+*.vcb
+*.vcl
+*.vcw
+*.vcx
+*.vso
+*.vsp
+*.vspscc
+
+# Dependencies
+dependencies/bin/
+dependencies/lib/
+
+# Build output
+build/
+dist/
+*.dll
+*.exe
+*.so
+*.dylib
+
+# Game directories (don't commit game files)
+scripts/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+~*

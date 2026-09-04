@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GrandLifeAdventures>
+  <Settings>
+    <MenuKey>F9</MenuKey>
+    <RelationshipDecayRate>0.05</RelationshipDecayRate>
+    <RelationshipMaxValue>100</RelationshipMaxValue>
+    <MaxChildren>4</MaxChildren>
+    <PaycheckInterval>7</PaycheckInterval>
+    <Difficulty>Normal</Difficulty>
+    <EnableLogging>true</EnableLogging>
+    <AutoSaveInterval>300</AutoSaveInterval>
+  </Settings>
+  
+  <Features>
+    <RelationshipSystem enabled="true" />
+    <CareerSystem enabled="true" />
+    <FamilySystem enabled="true" />
+    <VisualEnhancements enabled="true" />
+  </Features>
+  
+  <Romance>
+    <Characters>
+      <Character name="Amanda" prestige="30" />
+      <Character name="Tracey" prestige="40" />
+      <Character name="Kate" prestige="50" />
+      <Character name="Michelle" prestige="35" />
+    </Characters>
+  </Romance>
+</GrandLifeAdventures>
